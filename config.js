@@ -12,8 +12,8 @@ global.owner = [
 
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'Daniel' 
+global.author = 'Hail DAI' 
 
 
 
